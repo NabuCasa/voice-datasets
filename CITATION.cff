@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Nabu Casa Voice
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - email: voice@nabucasa.com
+    given-names: Nabu
+    family-names: Casa
+repository-code: 'https://github.com/NabuCasa/voice-datasets'
+url: 'https://www.nabucasa.com/'
+abstract: Datasets for Home Assistant's Year of Voice 2023
+keywords:
+  - home-assistant
+  - text-to-speech
+  - year-of-voice
+license: CC0-1.0
