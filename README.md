@@ -7,4 +7,4 @@ These datasets are licensed under [CC0 (public domain)](https://creativecommons.
 
 | Language | Name                                                                                     | Sample                             | Date Added |
 |----------|------------------------------------------------------------------------------------------|------------------------------------|------------|
-| `en_US`  | [joe](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/en_US-joe.zip) | [Listen](en_US/joe/0000000001.mp3) | 2023-05-23 |
+| `en_US`  | [joe](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/en_US-joe.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/en_US/joe/0000000001.mp3) | 2023-05-23 |
