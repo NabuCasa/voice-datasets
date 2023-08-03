@@ -20,3 +20,4 @@ If you use them, please cite this repository!
 | `pt_BR`  | [faber](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/pt_BR-faber.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/pt_BR/faber/0000000001.mp3) | 2023-05-25 |
 | `ro_RO`  | [mihai](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/ro_RO-mihai.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/ro_RO/mihai/0000000001.mp3) | 2023-05-25 |
 | `ru_RU`  | [denis](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/ru_RU-denis.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/ru_RU/denis/0000000001.mp3) | 2023-05-25 |
+| `ru_RU`  | [dmitri](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/ru_RU-dmitri.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/ru_RU/dmitri/0000000001.mp3) | 2023-08-03 |
