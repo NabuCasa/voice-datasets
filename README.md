@@ -8,6 +8,7 @@ If you use them, please cite this repository!
 
 | Language | Name                                                                                     | Sample                             | Date Added |
 |----------|------------------------------------------------------------------------------------------|------------------------------------|------------|
+| `bg_BG`  | [dimitar](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/bg_BG-dimitar.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/bg_BG/dimitar/0000000001.mp3) | 2024-07-31 |
 | `de_DE`  | [kerstin](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/de_DE-kerstin.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/de_DE/kerstin/de_rhasspy-0004.mp3) | 2023-05-23 |
 | `en_US`  | [joe](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/en_US-joe.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/en_US/joe/0000000001.mp3) | 2023-05-23 |
 | `en_US`  | [kathleen](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/en_US-kathleen.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/en_US/kathleen/arctic_a0001_1592748574.mp3) | 2023-05-23 |
