@@ -17,6 +17,7 @@ If you use them, please cite this repository!
 | `hu_HU`  | [berta](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/hu_HU-berta.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/hu_HU/berta/0000000001.mp3) | 2023-08-02 |
 | `hu_HU`  | [imre](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/hu_HU-imre.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/hu_HU/imre/0000000001.mp3) | 2023-10-02 |
 | `it_IT`  | [paola](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/it_IT-paola.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/it_IT/paola/0000000001.mp3) | 2024-05-30 |
+| `ne_NE`  | [chitwan](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/ne-NE-chitwan.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/ne_NE/chitwan/0.mp3) | 2025-06-12 |
 | `nl_BE`  | [flemishguy](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/nl_BE-flemishguy.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/nl_BE/flemishguy/nl_rhasspy_1_1602428220.mp3) | 2023-05-25 |
 | `nl_BE`  | [nathalie](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/nl_BE-nathalie.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/nl_BE/nathalie/nl_rhasspy_1.mp3) | 2023-05-25 |
 | `nl_NL`  | [pim](https://github.com/NabuCasa/voice-datasets/releases/download/v1.0.0/nl_NL-pim.zip) | [Listen](https://github.com/NabuCasa/voice-datasets/raw/master/nl_NL/pim/0000000001.mp3) | 2025-04-26 |
